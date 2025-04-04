@@ -105,3 +105,7 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 [23:48:31] [Server thread/INFO]: [Sebas23m: Made jp7806073 a server operator]
 [23:48:59] [Server thread/INFO]: Sebas23m issued server command: /gamemode survival
 [23:48:59] [Server thread/INFO]: [Sebas23m: Set own game mode to Survival Mode]
+[23:56:10] [Server thread/INFO]: jp7806073 has made the advancement [Stone Age]
+[23:56:42] [Server thread/INFO]: Sebas23m has made the advancement [Stone Age]
+[23:56:49] [Server thread/INFO]: jp7806073 has made the advancement [Getting an Upgrade]
+[23:57:56] [Server thread/INFO]: jp7806073 has made the advancement [Monster Hunter]

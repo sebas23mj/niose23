@@ -92,3 +92,16 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 [23:37:29] [Server thread/INFO]: Sebas23m issued server command: /sethome e
 [23:37:40] [Server thread/INFO]: Sebas23m issued server command: /home e
 [23:39:16] [Server thread/INFO]: Sebas23m issued server command: /delhome e
+[23:39:58] [Server thread/INFO]: Sebas23m issued server command: /delhome e
+[23:45:35] [Server thread/INFO]: Sebas23m lost connection: Disconnected
+[23:45:35] [Server thread/INFO]: Sebas23m left the game
+[23:47:35] [User Authenticator #1/INFO]: UUID of player Sebas23m is 05baa57d-e0e2-3245-950d-ef017ffd725d
+[23:47:37] [Server thread/INFO]: Sebas23m joined the game
+[23:47:37] [Server thread/INFO]: Sebas23m[/127.58.110.151:60241] logged in with entity id 2145 at ([world]-37.355379513231625, 80.0, 49.209977589694994)
+[23:48:14] [User Authenticator #1/INFO]: UUID of player jp7806073 is 68efd73e-a0cd-33f7-a574-2c7e5d7949df
+[23:48:18] [Server thread/INFO]: jp7806073 joined the game
+[23:48:18] [Server thread/INFO]: jp7806073[/127.97.177.98:45295] logged in with entity id 2222 at ([world]-34.5, 77.0, 46.5)
+[23:48:31] [Server thread/INFO]: Sebas23m issued server command: /op jp7806073
+[23:48:31] [Server thread/INFO]: [Sebas23m: Made jp7806073 a server operator]
+[23:48:59] [Server thread/INFO]: Sebas23m issued server command: /gamemode survival
+[23:48:59] [Server thread/INFO]: [Sebas23m: Set own game mode to Survival Mode]

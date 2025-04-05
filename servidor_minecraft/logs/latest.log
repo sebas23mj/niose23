@@ -1,118 +1,79 @@
-[16:31:04] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1; Ubuntu null) on Linux 6.8.0-1021-azure (amd64)
-[16:31:04] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) for Minecraft 1.21.1
-[16:31:04] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[16:31:04] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Remapping plugin 'plugins/LevelledMobs-4.3.1.b112.jar'...
-[16:31:04] [Paper Plugin Remapper Thread - 3/INFO]: [PluginRemapper] Remapping plugin 'plugins/sleep-most-5.5.3.jar'...
-[16:31:05] [Paper Plugin Remapper Thread - 1/INFO]: [PluginRemapper] Remapping plugin 'plugins/UltraSetHome-1.7.9.jar'...
-[16:31:05] [Paper Plugin Remapper Thread - 0/INFO]: [PluginRemapper] Remapping plugin 'plugins/smoothtimber-legacy-1.27.4.jar'...
-[16:31:06] [Paper Plugin Remapper Thread - 0/INFO]: [PluginRemapper] Done remapping plugin 'plugins/smoothtimber-legacy-1.27.4.jar' in 1138ms.
-[16:31:06] [Paper Plugin Remapper Thread - 3/INFO]: [PluginRemapper] Done remapping plugin 'plugins/sleep-most-5.5.3.jar' in 1762ms.
-[16:31:06] [Paper Plugin Remapper Thread - 1/INFO]: [PluginRemapper] Done remapping plugin 'plugins/UltraSetHome-1.7.9.jar' in 1757ms.
-[16:31:07] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Done remapping plugin 'plugins/LevelledMobs-4.3.1.b112.jar' in 2558ms.
-[16:31:07] [ServerMain/INFO]: [PluginInitializerManager] Initialized 4 plugins
-[16:31:07] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (4):
+[17:17:40] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1; Ubuntu null) on Linux 6.8.0-1021-azure (amd64)
+[17:17:40] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) for Minecraft 1.21.1
+[17:17:41] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[17:17:41] [ServerMain/INFO]: [PluginInitializerManager] Initialized 4 plugins
+[17:17:41] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (4):
  - LevelledMobs (4.3.1 b112), SmoothTimber (1.27.4), UltraSetHome (1.7.9), sleep-most (5.5.3)
-[16:31:14] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[16:31:15] [ServerMain/INFO]: Found new data pack file/bukkit, loading it automatically
-[16:31:15] [ServerMain/INFO]: Found new data pack paper, loading it automatically
-[16:31:16] [ServerMain/INFO]: No existing world data, creating new world
-[16:31:17] [ServerMain/INFO]: Loaded 1290 recipes
-[16:31:17] [ServerMain/INFO]: Loaded 1399 advancements
-[16:31:18] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[16:31:18] [Server thread/INFO]: Loading properties
-[16:31:18] [Server thread/INFO]: This server is running Paper version 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) (Implementing API version 1.21.1-R0.1-SNAPSHOT)
-[16:31:19] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[16:31:19] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[16:31:19] [Server thread/INFO]: Using 4 threads for Netty based IO
-[16:31:20] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
-[16:31:20] [Server thread/INFO]: Default game type: SURVIVAL
-[16:31:20] [Server thread/INFO]: Generating keypair
-[16:31:20] [Server thread/INFO]: Starting Minecraft server on *:25565
-[16:31:21] [Server thread/INFO]: Using epoll channel type
-[16:31:21] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[16:31:21] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[16:31:24] [Server thread/INFO]: [SmoothTimber] Loading server plugin SmoothTimber v1.27.4
-[16:31:24] [Server thread/INFO]: [UltraSetHome] Loading server plugin UltraSetHome v1.7.9
-[16:31:24] [Server thread/INFO]: [sleep-most] Loading server plugin sleep-most v5.5.3
-[16:31:24] [Server thread/INFO]: [LevelledMobs] Loading server plugin LevelledMobs v4.3.1 b112
-[16:31:24] [Server thread/INFO]: [LevelledMobs] Loading commands
-[16:31:25] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[16:31:25] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[16:31:25] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[16:31:25] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[16:31:25] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[16:31:25] [Server thread/INFO]: Preparing level "world"
-[16:31:39] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[16:31:46] [Server thread/INFO]: Time elapsed: 6711 ms
-[16:31:46] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[16:31:48] [Server thread/INFO]: Time elapsed: 2274 ms
-[16:31:48] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[16:31:49] [Server thread/INFO]: Time elapsed: 682 ms
-[16:31:49] [Server thread/INFO]: [SmoothTimber] Enabling SmoothTimber v1.27.4
-[16:31:49] [Server thread/INFO]: SmoothTimber || You're currently using the supported Minecraft Version 1.21.1 (Core v1_20x)
-[16:31:49] [Server thread/INFO]: [UltraSetHome] Enabling UltraSetHome v1.7.9
-[16:31:50] [Server thread/INFO]: [sleep-most] Enabling sleep-most v5.5.3
-[16:31:50] [Server thread/INFO]: [LevelledMobs] Enabling LevelledMobs v4.3.1 b112
-[16:31:50] [Server thread/INFO]: [LevelledMobs] Enabling commands
-[16:31:51] [Server thread/INFO]: [LevelledMobs] Building reflection cache, use simple names: true
-[16:31:51] [Server thread/INFO]: [LevelledMobs] Using NMS version 1.21.1 for nametag support
-[16:31:51] [Server thread/INFO]: [LevelledMobs] File Loader: Loading files...
-[16:31:51] [Server thread/INFO]: [LevelledMobs] File Loader: Loading file 'settings.yml'...
-[16:31:51] [Server thread/INFO]: [LevelledMobs] File Loader: File 'settings.yml' doesn't exist, creating it now...
-[16:31:51] [Server thread/INFO]: [LevelledMobs] File Loader: Loading file 'messages.yml'...
-[16:31:51] [Server thread/INFO]: [LevelledMobs] File Loader: File 'messages.yml' doesn't exist, creating it now...
-[16:31:51] [Server thread/INFO]: [LevelledMobs] File Loader: Loading file 'externalplugins.yml'...
-[16:31:51] [Server thread/INFO]: [LevelledMobs] File Loader: File 'externalplugins.yml' doesn't exist, creating it now...
-[16:31:51] [Server thread/INFO]: [LevelledMobs] File Loader: Loading file 'rules.yml'...
-[16:31:51] [Server thread/INFO]: [LevelledMobs] File Loader: File 'rules.yml' doesn't exist, creating it now...
-[16:31:51] [Server thread/INFO]: [LevelledMobs] Current rules hash: 9b0f48e3273bb9cc29d2891ad33fb3410fec8cf1e77c2092ff670fd38f6d4ff5
-[16:31:51] [Server thread/INFO]: [LevelledMobs] File Loader: Loading file 'customdrops.yml'...
-[16:31:51] [Server thread/INFO]: [LevelledMobs] File Loader: File 'customdrops.yml' doesn't exist, creating it now...
-[16:31:51] [Server thread/INFO]: [LevelledMobs] Listeners: Registering event listeners...
-[16:31:51] [Server thread/INFO]: [LevelledMobs] Running misc procedures
-[16:31:51] [Server thread/INFO]: [LevelledMobs] Tasks: Starting async nametag auto update task...
-[16:31:51] [Server thread/INFO]: [LevelledMobs] Start-up complete (took 791ms)
-[16:31:51] [Server thread/INFO]: [spark] Starting background profiler...
-[16:31:52] [Server thread/INFO]: Done preparing level "world" (27.430s)
-[16:31:52] [Server thread/INFO]: Running delayed init tasks
-[16:31:52] [Server thread/INFO]: Done (50.831s)! For help, type "help"
-[16:31:52] [Server thread/INFO]: Timings Reset
-[16:31:53] [Server thread/INFO]: [UltraSetHome] You are using the latest version of UltraSetHome.
-[16:33:45] [User Authenticator #0/INFO]: UUID of player Sebas23m is 05baa57d-e0e2-3245-950d-ef017ffd725d
-[16:33:51] [Server thread/INFO]: Sebas23m joined the game
-[16:33:51] [Server thread/INFO]: Sebas23m[/127.150.98.65:33697] logged in with entity id 169 at ([world]-6.5, 72.0, -9.5)
-[16:34:02] [Server thread/INFO]: Made Sebas23m a server operator
-[16:34:17] [Server thread/INFO]: Sebas23m issued server command: /gamemode creative
-[16:34:17] [Server thread/INFO]: [Sebas23m: Set own game mode to Creative Mode]
-[16:34:53] [User Authenticator #1/INFO]: UUID of player jp7806073 is 68efd73e-a0cd-33f7-a574-2c7e5d7949df
-[16:34:57] [Server thread/INFO]: jp7806073 joined the game
-[16:34:57] [Server thread/INFO]: jp7806073[/127.97.177.98:34255] logged in with entity id 753 at ([world]2.5, 72.0, 4.5)
-[16:38:11] [Server thread/INFO]: Sebas23m issued server command: /op jp7806073
-[16:38:11] [Server thread/INFO]: [Sebas23m: Made jp7806073 a server operator]
-[16:38:13] [Server thread/INFO]: jp7806073 has made the advancement [Stone Age]
-[16:39:27] [Server thread/INFO]: jp7806073 has made the advancement [Getting an Upgrade]
-[16:39:27] [Server thread/INFO]: Sebas23m issued server command: /locate structure minecraft:village_plains
-[16:39:28] [Server thread/INFO]: Locating element minecraft:village_plains took 765 ms
-[16:39:45] [Server thread/INFO]: Sebas23m issued server command: /gamemode survival
-[16:39:45] [Server thread/INFO]: [Sebas23m: Set own game mode to Survival Mode]
-[16:41:16] [Server thread/WARN]: Oak Boat (vehicle of Sebas23m) moved wrongly! 0.7494788574633162
-[16:41:16] [Server thread/WARN]: Oak Boat (vehicle of Sebas23m) moved wrongly! 0.3996672126361318
-[16:41:17] [Server thread/WARN]: Oak Boat (vehicle of Sebas23m) moved wrongly! 0.7565297842604082
-[16:41:17] [Server thread/WARN]: Oak Boat (vehicle of Sebas23m) moved wrongly! 0.40499394498897345
-[16:43:41] [Server thread/INFO]: Sebas23m issued server command: /difficulty hard
-[16:43:41] [Server thread/INFO]: [Sebas23m: The difficulty has been set to Hard]
-[16:44:26] [Server thread/INFO]: Sebas23m has made the advancement [Sweet Dreams]
-[16:49:24] [Server thread/INFO]: Sebas23m has made the advancement [Acquire Hardware]
-[16:54:46] [Server thread/INFO]: jp7806073 has made the advancement [Acquire Hardware]
-[16:55:02] [Server thread/INFO]: jp7806073 has made the advancement [Isn't It Iron Pick]
-[16:55:40] [Server thread/INFO]: jp7806073 has made the advancement [Suit Up]
-[16:56:16] [Server thread/INFO]: jp7806073 has made the advancement [Diamonds!]
-[16:56:36] [Server thread/INFO]: Sebas23m has made the advancement [Isn't It Iron Pick]
-[16:56:50] [Server thread/INFO]: jp7806073 was slain by Lvl 8 | Zombie
-[16:59:33] [Server thread/INFO]: Sebas23m issued server command: /gamerule keepInventory true
-[16:59:33] [Server thread/INFO]: [Sebas23m: Gamerule keepInventory is now set to: true]
-[17:00:24] [Server thread/INFO]: Sebas23m issued server command: /sethome e
-[17:01:03] [Server thread/INFO]: Sebas23m issued server command: /tp jp7806073 Sebas23m
-[17:01:03] [Server thread/INFO]: [Sebas23m: Teleported jp7806073 to Sebas23m]
-[17:04:58] [Server thread/INFO]: Sebas23m has made the advancement [What a Deal!]
-[17:06:48] [Server thread/INFO]: Sebas23m has made the advancement [Stone Age]
+[17:17:47] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[17:17:49] [ServerMain/INFO]: Loaded 1290 recipes
+[17:17:49] [ServerMain/INFO]: Loaded 1399 advancements
+[17:17:49] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[17:17:49] [Server thread/INFO]: Loading properties
+[17:17:49] [Server thread/INFO]: This server is running Paper version 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) (Implementing API version 1.21.1-R0.1-SNAPSHOT)
+[17:17:50] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[17:17:50] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[17:17:50] [Server thread/INFO]: Using 4 threads for Netty based IO
+[17:17:52] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[17:17:52] [Server thread/INFO]: Default game type: SURVIVAL
+[17:17:52] [Server thread/INFO]: Generating keypair
+[17:17:52] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:17:52] [Server thread/INFO]: Using epoll channel type
+[17:17:52] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[17:17:52] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[17:17:55] [Server thread/INFO]: [SmoothTimber] Loading server plugin SmoothTimber v1.27.4
+[17:17:55] [Server thread/INFO]: [UltraSetHome] Loading server plugin UltraSetHome v1.7.9
+[17:17:55] [Server thread/INFO]: [sleep-most] Loading server plugin sleep-most v5.5.3
+[17:17:55] [Server thread/INFO]: [LevelledMobs] Loading server plugin LevelledMobs v4.3.1 b112
+[17:17:55] [Server thread/INFO]: [LevelledMobs] Loading commands
+[17:17:56] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[17:17:56] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[17:17:56] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[17:17:56] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[17:17:56] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[17:17:56] [Server thread/INFO]: Preparing level "world"
+[17:17:56] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:17:57] [Server thread/INFO]: Time elapsed: 873 ms
+[17:17:57] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[17:17:57] [Server thread/INFO]: Time elapsed: 238 ms
+[17:17:57] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[17:17:57] [Server thread/INFO]: Time elapsed: 95 ms
+[17:17:57] [Server thread/INFO]: [SmoothTimber] Enabling SmoothTimber v1.27.4
+[17:17:58] [Server thread/INFO]: SmoothTimber || You're currently using the supported Minecraft Version 1.21.1 (Core v1_20x)
+[17:17:58] [Server thread/INFO]: [UltraSetHome] Enabling UltraSetHome v1.7.9
+[17:17:59] [Server thread/INFO]: [sleep-most] Enabling sleep-most v5.5.3
+[17:17:59] [Server thread/INFO]: [LevelledMobs] Enabling LevelledMobs v4.3.1 b112
+[17:17:59] [Server thread/INFO]: [LevelledMobs] Enabling commands
+[17:17:59] [Server thread/INFO]: [LevelledMobs] Building reflection cache, use simple names: true
+[17:17:59] [Server thread/INFO]: [LevelledMobs] Using NMS version 1.21.1 for nametag support
+[17:17:59] [Server thread/INFO]: [LevelledMobs] File Loader: Loading files...
+[17:17:59] [Server thread/INFO]: [LevelledMobs] File Loader: Loading file 'settings.yml'...
+[17:17:59] [Server thread/INFO]: [LevelledMobs] File Loader: Loading file 'messages.yml'...
+[17:17:59] [Server thread/INFO]: [LevelledMobs] File Loader: Loading file 'externalplugins.yml'...
+[17:17:59] [Server thread/INFO]: [LevelledMobs] File Loader: Loading file 'rules.yml'...
+[17:18:00] [Server thread/INFO]: [LevelledMobs] Current rules hash: 9b0f48e3273bb9cc29d2891ad33fb3410fec8cf1e77c2092ff670fd38f6d4ff5
+[17:18:00] [Server thread/INFO]: [LevelledMobs] File Loader: Loading file 'customdrops.yml'...
+[17:18:00] [Server thread/INFO]: [LevelledMobs] Listeners: Registering event listeners...
+[17:18:00] [Server thread/INFO]: [LevelledMobs] Running misc procedures
+[17:18:00] [Server thread/INFO]: [LevelledMobs] Tasks: Starting async nametag auto update task...
+[17:18:00] [Server thread/INFO]: [LevelledMobs] Start-up complete (took 808ms)
+[17:18:00] [Server thread/INFO]: [spark] Starting background profiler...
+[17:18:00] [Server thread/INFO]: Done preparing level "world" (4.489s)
+[17:18:00] [Server thread/INFO]: Running delayed init tasks
+[17:18:00] [Server thread/INFO]: Done (21.734s)! For help, type "help"
+[17:18:00] [Server thread/INFO]: Timings Reset
+[17:18:01] [Server thread/INFO]: [UltraSetHome] You are using the latest version of UltraSetHome.
+[17:18:34] [User Authenticator #0/INFO]: UUID of player Sebas23m is 05baa57d-e0e2-3245-950d-ef017ffd725d
+[17:18:40] [Server thread/INFO]: Sebas23m joined the game
+[17:18:41] [Server thread/INFO]: Sebas23m[/127.150.98.65:46139] logged in with entity id 80 at ([world]-457.5295726134135, 64.0, -461.1466586025182)
+[17:18:41] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 1e5c8bbc-52b2-4b77-9b55-5b9d24be09ee, mapped to Salmon['Salmon'/91, uuid='1e5c8bbc-52b2-4b77-9b55-5b9d24be09ee', l='ServerLevel[world]', x=-461.55, y=57.02, z=-481.92, cpos=[-29, -31], tl=1157, v=true], can't add Salmon['Salmon'/107, uuid='1e5c8bbc-52b2-4b77-9b55-5b9d24be09ee', l='ServerLevel[world]', x=-465.34, y=54.79, z=-482.97, cpos=[-30, -31], tl=1221, v=false]
+[17:18:42] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 37a98e35-f779-4e9a-a4b0-9055359ed9d4, mapped to Skeleton['Skeleton'/178, uuid='37a98e35-f779-4e9a-a4b0-9055359ed9d4', l='ServerLevel[world]', x=-337.50, y=21.00, z=-448.50, cpos=[-22, -29], tl=26, v=true], can't add Skeleton['Skeleton'/227, uuid='37a98e35-f779-4e9a-a4b0-9055359ed9d4', l='ServerLevel[world]', x=-334.45, y=22.00, z=-444.76, cpos=[-21, -28], tl=252, v=false]
+[17:18:46] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 992601e8-6ed8-4f55-bd0d-7983f6586f86, mapped to Sheep['Sheep'/335, uuid='992601e8-6ed8-4f55-bd0d-7983f6586f86', l='ServerLevel[world]', x=-534.50, y=63.00, z=-324.27, cpos=[-34, -21], tl=1959, v=true], can't add Sheep['Sheep'/359, uuid='992601e8-6ed8-4f55-bd0d-7983f6586f86', l='ServerLevel[world]', x=-538.00, y=63.00, z=-319.00, cpos=[-34, -20], tl=0, v=false]
+[17:18:47] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 80b1bbfc-72f9-4b00-bf2c-e4ef036cc23f, mapped to Bat['Bat'/345, uuid='80b1bbfc-72f9-4b00-bf2c-e4ef036cc23f', l='ServerLevel[world]', x=-526.80, y=7.15, z=-605.06, cpos=[-33, -38], tl=3641, v=true], can't add Bat['Bat'/376, uuid='80b1bbfc-72f9-4b00-bf2c-e4ef036cc23f', l='ServerLevel[world]', x=-528.15, y=10.61, z=-615.52, cpos=[-34, -39], tl=3708, v=false]
+[17:20:30] [User Authenticator #1/INFO]: UUID of player jp7806073 is 68efd73e-a0cd-33f7-a574-2c7e5d7949df
+[17:20:35] [Server thread/INFO]: jp7806073 joined the game
+[17:20:35] [Server thread/INFO]: jp7806073[/127.97.177.98:50945] logged in with entity id 848 at ([world]-516.9183629959789, 27.0, -572.8544931794904)
+[17:21:31] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 1fd22f6a-8e66-4975-af45-1ce4f0228e8f, mapped to Pig['Pig'/995, uuid='1fd22f6a-8e66-4975-af45-1ce4f0228e8f', l='ServerLevel[world]', x=-735.21, y=69.00, z=-497.14, cpos=[-46, -32], tl=106, v=true], can't add Pig['Pig'/1092, uuid='1fd22f6a-8e66-4975-af45-1ce4f0228e8f', l='ServerLevel[world]', x=-738.00, y=68.00, z=-500.00, cpos=[-47, -32], tl=0, v=false]
+[17:21:31] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: cfce5297-a6e0-4203-a440-717f657c3c54, mapped to Pig['Pig'/994, uuid='cfce5297-a6e0-4203-a440-717f657c3c54', l='ServerLevel[world]', x=-729.77, y=69.00, z=-504.26, cpos=[-46, -32], tl=106, v=true], can't add Pig['Pig'/1093, uuid='cfce5297-a6e0-4203-a440-717f657c3c54', l='ServerLevel[world]', x=-737.00, y=68.00, z=-501.00, cpos=[-47, -32], tl=0, v=false]
+[17:22:43] [Server thread/INFO]: jp7806073 was shot by Lvl 2 | Skeleton
+[17:23:17] [Server thread/INFO]: Sebas23m issued server command: /tp jp7806073 Sebas23m
+[17:23:17] [Server thread/INFO]: [Sebas23m: Teleported jp7806073 to Sebas23m]

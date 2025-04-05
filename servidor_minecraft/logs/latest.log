@@ -75,3 +75,5 @@
 [00:18:54] [Server thread/INFO]: jp7806073 left the game
 [00:24:19] [Server thread/INFO]: Sebas23m lost connection: Disconnected
 [00:24:19] [Server thread/INFO]: Sebas23m left the game
+[00:43:51] [User Authenticator #2/INFO]: UUID of player Cami23m is 4fa8fb20-2ad5-301e-b23d-5bbfe366640e
+[00:44:07] [Server thread/INFO]: com.mojang.authlib.GameProfile@629bed96[id=4fa8fb20-2ad5-301e-b23d-5bbfe366640e,name=Cami23m,properties={}] lost connection: Timed out

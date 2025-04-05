@@ -95,3 +95,11 @@
 [16:39:28] [Server thread/INFO]: Locating element minecraft:village_plains took 765 ms
 [16:39:45] [Server thread/INFO]: Sebas23m issued server command: /gamemode survival
 [16:39:45] [Server thread/INFO]: [Sebas23m: Set own game mode to Survival Mode]
+[16:41:16] [Server thread/WARN]: Oak Boat (vehicle of Sebas23m) moved wrongly! 0.7494788574633162
+[16:41:16] [Server thread/WARN]: Oak Boat (vehicle of Sebas23m) moved wrongly! 0.3996672126361318
+[16:41:17] [Server thread/WARN]: Oak Boat (vehicle of Sebas23m) moved wrongly! 0.7565297842604082
+[16:41:17] [Server thread/WARN]: Oak Boat (vehicle of Sebas23m) moved wrongly! 0.40499394498897345
+[16:43:41] [Server thread/INFO]: Sebas23m issued server command: /difficulty hard
+[16:43:41] [Server thread/INFO]: [Sebas23m: The difficulty has been set to Hard]
+[16:44:26] [Server thread/INFO]: Sebas23m has made the advancement [Sweet Dreams]
+[16:49:24] [Server thread/INFO]: Sebas23m has made the advancement [Acquire Hardware]

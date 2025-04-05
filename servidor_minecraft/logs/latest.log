@@ -84,3 +84,17 @@
 [17:35:35] [Server thread/INFO]: Sebas23m issued server command: /tp Sebas23m jp7806073
 [17:35:35] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to jp7806073]
 [17:35:49] [Server thread/INFO]: Sebas23m issued server command: /home e
+[17:42:11] [Server thread/INFO]: Sebas23m issued server command: /tp jp7806073 Sebas23m
+[17:42:11] [Server thread/INFO]: [Sebas23m: Teleported jp7806073 to Sebas23m]
+[17:42:26] [Server thread/INFO]: jp7806073 issued server command: /sethome c
+[17:42:34] [Server thread/INFO]: jp7806073 issued server command: /homec
+[17:42:40] [Async Chat Thread - #0/INFO]: [Not Secure] <Sebas23m> que paso
+[17:42:41] [Async Chat Thread - #0/INFO]: [Not Secure] <jp7806073> el home
+[17:42:46] [Async Chat Thread - #0/INFO]: [Not Secure] <jp7806073> q no tenía
+[17:42:50] [Async Chat Thread - #0/INFO]: [Not Secure] <jp7806073> ya ahora si
+[17:42:54] [Async Chat Thread - #0/INFO]: [Not Secure] <Sebas23m> bueno
+[17:42:54] [Server thread/INFO]: jp7806073 issued server command: /home c
+[17:44:10] [Async Chat Thread - #2/INFO]: [Not Secure] <Sebas23m> me llamas si nesesitas algo
+[17:44:16] [Async Chat Thread - #2/INFO]: [Not Secure] <jp7806073> ok
+[17:46:31] [Server thread/INFO]: jp7806073 lost connection: Disconnected
+[17:46:31] [Server thread/INFO]: jp7806073 left the game

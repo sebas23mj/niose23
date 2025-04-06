@@ -1007,6 +1007,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-04-06 17:50:01 +0000",
       "minecraft:vindicator": "2025-04-06 17:28:33 +0000",
       "minecraft:magma_cube": "2025-04-06 02:07:32 +0000",
       "minecraft:spider": "2025-04-06 00:44:36 +0000",
@@ -1504,6 +1505,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2025-04-06 17:53:52 +0000",
       "minecraft:nether_wastes": "2025-04-06 01:57:22 +0000",
       "minecraft:soul_sand_valley": "2025-04-06 01:55:23 +0000"
     },
@@ -1761,6 +1763,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_nether_gold_ore": {
+    "criteria": {
+      "has_nether_gold_ore": "2025-04-06 17:53:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_beetroot": {
     "criteria": {
       "has_beetroot": "2025-04-06 16:21:43 +0000"
@@ -1839,6 +1847,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/quartz": {
+    "criteria": {
+      "has_nether_quartz_ore": "2025-04-06 17:53:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/fishing_rod": {
     "criteria": {
       "has_string": "2025-04-06 16:58:30 +0000"
@@ -1848,6 +1862,18 @@
   "minecraft:recipes/redstone/dark_oak_button": {
     "criteria": {
       "has_planks": "2025-04-06 16:18:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-04-06 17:50:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_nether_gold_ore": {
+    "criteria": {
+      "has_nether_gold_ore": "2025-04-06 17:53:27 +0000"
     },
     "done": true
   },
@@ -1953,9 +1979,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-04-06 17:51:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2025-04-06 16:26:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/quartz_from_blasting": {
+    "criteria": {
+      "has_nether_quartz_ore": "2025-04-06 17:53:06 +0000"
     },
     "done": true
   },

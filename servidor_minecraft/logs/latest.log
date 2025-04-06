@@ -204,3 +204,68 @@
 [18:46:49] [Server thread/INFO]: Sebas23m issued server command: /tp jp7806073 Sebas23m
 [18:46:49] [Server thread/INFO]: [Sebas23m: Teleported jp7806073 to Sebas23m]
 [18:46:52] [Server thread/INFO]: Sebas23m issued server command: /home e
+[18:47:13] [Server thread/INFO]: jp7806073 issued server command: /sethome n
+[18:47:27] [Server thread/INFO]: jp7806073 issued server command: /Home c
+[18:47:32] [Server thread/INFO]: jp7806073 issued server command: /Home c
+[18:47:41] [Async Chat Thread - #4/INFO]: [Not Secure] <jp7806073> Home c
+[18:47:49] [Server thread/INFO]: jp7806073 issued server command: /homes c
+[18:47:49] [ForkJoinPool.commonPool-worker-37/WARN]: java.io.FileNotFoundException: https://api.mojang.com/users/profiles/minecraft/c?at=1743965269
+[18:47:49] [ForkJoinPool.commonPool-worker-37/WARN]: 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:2009)
+[18:47:49] [ForkJoinPool.commonPool-worker-37/WARN]: 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1614)
+[18:47:49] [ForkJoinPool.commonPool-worker-37/WARN]: 	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:223)
+[18:47:49] [ForkJoinPool.commonPool-worker-37/WARN]: 	at UltraSetHome-1.7.9.jar//me.cerexus.ultrasethome.util.UUIDFetcher.getUUIDAt(UUIDFetcher.java:67)
+[18:47:49] [ForkJoinPool.commonPool-worker-37/WARN]: 	at UltraSetHome-1.7.9.jar//me.cerexus.ultrasethome.util.UUIDFetcher.lambda$getUUID$0(UUIDFetcher.java:48)
+[18:47:49] [ForkJoinPool.commonPool-worker-37/WARN]: 	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+[18:47:49] [ForkJoinPool.commonPool-worker-37/WARN]: 	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760)
+[18:47:49] [ForkJoinPool.commonPool-worker-37/WARN]: 	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387)
+[18:47:49] [ForkJoinPool.commonPool-worker-37/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312)
+[18:47:49] [ForkJoinPool.commonPool-worker-37/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843)
+[18:47:49] [ForkJoinPool.commonPool-worker-37/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808)
+[18:47:49] [ForkJoinPool.commonPool-worker-37/WARN]: 	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188)
+[18:48:04] [Server thread/INFO]: jp7806073 issued server command: /homee
+[18:48:24] [Server thread/INFO]: jp7806073 issued server command: /home c
+[18:48:46] [Server thread/INFO]: jp7806073 issued server command: /Home n
+[18:48:53] [Server thread/INFO]: jp7806073 issued server command: /home n
+[18:49:40] [Server thread/INFO]: Sebas23m issued server command: /home r
+[18:49:47] [Server thread/INFO]: Sebas23m issued server command: /tp jp7806073 Sebas23m
+[18:49:47] [Server thread/INFO]: [Sebas23m: Teleported jp7806073 to Sebas23m]
+[18:49:47] [Server thread/INFO]: jp7806073 has made the advancement [A Terrible Fortress]
+[18:50:22] [Server thread/INFO]: jp7806073 has made the advancement [Into Fire]
+[18:51:05] [Server thread/INFO]: Sebas23m issued server command: /home q
+[18:51:07] [Server thread/INFO]: jp7806073 issued server command: /Home c
+[18:51:15] [Server thread/INFO]: Sebas23m issued server command: /home w
+[18:51:19] [Server thread/INFO]: jp7806073 issued server command: /home n
+[18:51:40] [Server thread/INFO]: jp7806073 issued server command: /home c
+[18:52:20] [Server thread/INFO]: jp7806073 issued server command: /tp jp7806073 sebas23m
+[18:52:20] [Server thread/INFO]: [jp7806073: Teleported jp7806073 to Sebas23m]
+[18:52:34] [Server thread/INFO]: Sebas23m issued server command: /home e
+[18:52:53] [Server thread/INFO]: Sebas23m issued server command: /home w
+[18:53:00] [Server thread/INFO]: jp7806073 was slain by Lvl 50 | Piglin
+[18:53:13] [Server thread/INFO]: jp7806073 issued server command: /tp jp7806073 sebas23m
+[18:53:13] [Server thread/INFO]: [jp7806073: Teleported jp7806073 to Sebas23m]
+[18:53:40] [Server thread/INFO]: jp7806073 has made the advancement [Hidden in the Depths]
+[18:53:48] [Server thread/INFO]: jp7806073 was slain by Lvl 50 | Piglin
+[18:54:08] [Server thread/INFO]: jp7806073 issued server command: /tp jp7806073 sebas23m
+[18:54:08] [Server thread/INFO]: [jp7806073: Teleported jp7806073 to Sebas23m]
+[18:54:15] [Server thread/INFO]: jp7806073 issued server command: /Home c
+[18:54:22] [Server thread/INFO]: jp7806073 issued server command: /homes c
+[18:54:22] [ForkJoinPool.commonPool-worker-35/WARN]: java.io.FileNotFoundException: https://api.mojang.com/users/profiles/minecraft/c?at=1743965662
+[18:54:22] [ForkJoinPool.commonPool-worker-35/WARN]: 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:2009)
+[18:54:22] [ForkJoinPool.commonPool-worker-35/WARN]: 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1614)
+[18:54:22] [ForkJoinPool.commonPool-worker-35/WARN]: 	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:223)
+[18:54:22] [ForkJoinPool.commonPool-worker-35/WARN]: 	at UltraSetHome-1.7.9.jar//me.cerexus.ultrasethome.util.UUIDFetcher.getUUIDAt(UUIDFetcher.java:67)
+[18:54:22] [ForkJoinPool.commonPool-worker-35/WARN]: 	at UltraSetHome-1.7.9.jar//me.cerexus.ultrasethome.util.UUIDFetcher.lambda$getUUID$0(UUIDFetcher.java:48)
+[18:54:22] [ForkJoinPool.commonPool-worker-35/WARN]: 	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+[18:54:22] [ForkJoinPool.commonPool-worker-35/WARN]: 	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760)
+[18:54:22] [ForkJoinPool.commonPool-worker-35/WARN]: 	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387)
+[18:54:22] [ForkJoinPool.commonPool-worker-35/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312)
+[18:54:22] [ForkJoinPool.commonPool-worker-35/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843)
+[18:54:22] [ForkJoinPool.commonPool-worker-35/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808)
+[18:54:22] [ForkJoinPool.commonPool-worker-35/WARN]: 	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188)
+[18:54:26] [Server thread/INFO]: jp7806073 tried to swim in lava
+[18:54:33] [Server thread/INFO]: Sebas23m issued server command: /tp jp7806073 Sebas23m.
+[18:54:41] [Server thread/INFO]: Sebas23m issued server command: /tp jp7806073 Sebas23m
+[18:54:41] [Server thread/INFO]: [Sebas23m: Teleported jp7806073 to Sebas23m]
+[18:55:05] [Server thread/INFO]: jp7806073 issued server command: /home n
+[18:56:40] [Server thread/INFO]: Sebas23m tried to swim in lava to escape Hoglin
+[18:56:50] [Server thread/INFO]: Sebas23m issued server command: /home w

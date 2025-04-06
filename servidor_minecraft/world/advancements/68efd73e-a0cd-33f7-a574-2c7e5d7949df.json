@@ -13,6 +13,7 @@
       "minecraft:river": "2025-04-05 16:42:34 +0000",
       "minecraft:lukewarm_ocean": "2025-04-05 17:39:20 +0000",
       "minecraft:dripstone_caves": "2025-04-05 16:51:19 +0000",
+      "minecraft:old_growth_birch_forest": "2025-04-06 15:15:24 +0000",
       "minecraft:ocean": "2025-04-05 17:39:00 +0000",
       "minecraft:sunflower_plains": "2025-04-05 17:34:52 +0000",
       "minecraft:meadow": "2025-04-05 16:48:42 +0000",
@@ -1932,6 +1933,12 @@
       "minecraft:cow": "2025-04-06 14:58:04 +0000"
     },
     "done": false
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-04-06 15:11:46 +0000"
+    },
+    "done": true
   },
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {

@@ -486,6 +486,7 @@
       "apple": "2025-04-05 17:01:19 +0000",
       "bread": "2025-04-05 17:21:00 +0000",
       "suspicious_stew": "2025-04-06 00:36:52 +0000",
+      "cookie": "2025-04-06 17:17:09 +0000",
       "cooked_mutton": "2025-04-05 16:52:58 +0000",
       "beef": "2025-04-05 16:47:52 +0000"
     },
@@ -2025,9 +2026,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-04-06 17:18:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-04-06 17:15:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/yellow_dye_from_sunflower": {
     "criteria": {
       "has_sunflower": "2025-04-06 16:49:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-04-06 17:18:39 +0000"
     },
     "done": true
   },
@@ -2046,6 +2065,12 @@
   "minecraft:recipes/decorations/oak_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2025-04-06 16:49:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-04-06 17:15:57 +0000"
     },
     "done": true
   },

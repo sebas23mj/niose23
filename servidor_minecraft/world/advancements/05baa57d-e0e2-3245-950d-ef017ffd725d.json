@@ -517,6 +517,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "bread": "2025-04-05 16:51:10 +0000",
+      "cookie": "2025-04-06 17:16:39 +0000",
       "cooked_beef": "2025-04-06 16:27:10 +0000"
     },
     "done": false
@@ -1005,7 +1006,8 @@
     "criteria": {
       "minecraft:magma_cube": "2025-04-06 02:07:32 +0000",
       "minecraft:spider": "2025-04-06 00:44:36 +0000",
-      "minecraft:zombie": "2025-04-06 01:35:28 +0000"
+      "minecraft:zombie": "2025-04-06 01:35:28 +0000",
+      "minecraft:creeper": "2025-04-06 17:13:34 +0000"
     },
     "done": false
   },
@@ -1871,6 +1873,12 @@
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_paper": "2025-04-06 16:39:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-04-06 17:20:05 +0000"
     },
     "done": true
   },

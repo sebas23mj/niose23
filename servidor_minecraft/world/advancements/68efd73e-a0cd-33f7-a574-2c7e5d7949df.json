@@ -1482,24 +1482,19 @@
     },
     "done": true
   },
-  "minecraft:story/shiny_gear": {
+  "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
-      "diamond_leggings": "2025-04-06 00:40:19 +0000"
+      "has_bowl": "2025-04-06 00:36:52 +0000"
     },
     "done": true
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-04-06 00:40:10 +0000",
-      "minecraft:spider": "2025-04-06 00:40:35 +0000"
+      "minecraft:spider": "2025-04-06 00:40:35 +0000",
+      "minecraft:zombie": "2025-04-06 00:54:32 +0000"
     },
     "done": false
-  },
-  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
-    "criteria": {
-      "has_dandelion": "2025-04-06 00:45:35 +0000"
-    },
-    "done": true
   },
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
@@ -1513,15 +1508,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/mushroom_stew": {
+  "minecraft:story/shiny_gear": {
     "criteria": {
-      "has_bowl": "2025-04-06 00:36:52 +0000"
+      "diamond_leggings": "2025-04-06 00:40:19 +0000"
     },
     "done": true
   },
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2025-04-06 00:43:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-04-06 00:45:35 +0000"
     },
     "done": true
   },

@@ -79,3 +79,8 @@
 [00:52:30] [Server thread/INFO]: jp7806073 joined the game
 [00:52:30] [Server thread/INFO]: jp7806073[/127.97.177.98:40631] logged in with entity id 2845 at ([world]-541.5022465894721, 64.0, -530.1442559849413)
 [00:52:37] [Async Chat Thread - #0/INFO]: [Not Secure] <Sebas23m> llama
+[00:57:40] [User Authenticator #3/INFO]: UUID of player jp7806073 is 68efd73e-a0cd-33f7-a574-2c7e5d7949df
+[00:57:40] [Server thread/INFO]: jp7806073 lost connection: You logged in from another location
+[00:57:41] [Server thread/INFO]: jp7806073 left the game
+[00:57:46] [Server thread/INFO]: jp7806073 joined the game
+[00:57:46] [Server thread/INFO]: jp7806073[/127.97.177.98:48185] logged in with entity id 3719 at ([world]-548.8836016758971, 64.0, -532.3000000119209)

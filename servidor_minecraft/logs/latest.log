@@ -145,3 +145,22 @@
 [17:50:26] [Server thread/INFO]: Locating element minecraft:bastion_remnant took 9 ms
 [18:06:23] [Server thread/INFO]: Sebas23m tried to swim in lava to escape Ghast
 [18:06:30] [Server thread/INFO]: Sebas23m issued server command: /home w
+[18:06:53] [Server thread/INFO]: Sebas23m issued server command: /tp @s -368 50 -224
+[18:06:53] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to -367.500000, 50.000000, -223.500000]
+[18:11:30] [Server thread/INFO]: Sebas23m issued server command: /locate structure minecraft:fortress
+[18:11:30] [Server thread/INFO]: Locating element minecraft:fortress took 6 ms
+[18:11:37] [Server thread/INFO]: Sebas23m issued server command: /tp @s -208 60 -592
+[18:11:37] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to -207.500000, 60.000000, -591.500000]
+[18:11:47] [Server thread/INFO]: Sebas23m issued server command: /tp @s -208 100 -592
+[18:11:47] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to -207.500000, 100.000000, -591.500000]
+[18:11:51] [Server thread/INFO]: Sebas23m suffocated in a wall
+[18:11:57] [Server thread/INFO]: Sebas23m issued server command: /home w
+[18:12:13] [Server thread/INFO]: Sebas23m issued server command: /gamemode spectator
+[18:12:13] [Server thread/INFO]: [Sebas23m: Set own game mode to Spectator Mode]
+[18:12:21] [Server thread/INFO]: Sebas23m issued server command: /tp @s -208 60 -592
+[18:12:21] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to -207.500000, 60.000000, -591.500000]
+[18:12:26] [Server thread/INFO]: Sebas23m has made the advancement [A Terrible Fortress]
+[18:12:37] [Server thread/INFO]: Sebas23m issued server command: /gamemode survival
+[18:12:37] [Server thread/INFO]: [Sebas23m: Set own game mode to Survival Mode]
+[18:12:43] [Server thread/INFO]: Sebas23m issued server command: /home t
+[18:13:34] [Server thread/INFO]: Sebas23m issued server command: /home e

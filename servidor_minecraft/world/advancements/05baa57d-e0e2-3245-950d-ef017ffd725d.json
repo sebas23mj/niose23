@@ -1011,6 +1011,7 @@
       "minecraft:vindicator": "2025-04-06 17:28:33 +0000",
       "minecraft:magma_cube": "2025-04-06 02:07:32 +0000",
       "minecraft:spider": "2025-04-06 00:44:36 +0000",
+      "minecraft:wither_skeleton": "2025-04-06 18:13:21 +0000",
       "minecraft:zombie": "2025-04-06 01:35:28 +0000",
       "minecraft:creeper": "2025-04-06 17:13:34 +0000",
       "minecraft:evoker": "2025-04-06 17:28:52 +0000"
@@ -1703,6 +1704,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2025-04-06 18:15:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_planks": {
     "criteria": {
       "has_log": "2025-04-06 16:16:08 +0000"
@@ -1748,6 +1755,12 @@
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
       "has_gold_block": "2025-04-06 16:35:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-04-06 18:15:36 +0000"
     },
     "done": true
   },
@@ -1817,6 +1830,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2025-04-06 18:15:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2025-04-06 16:14:34 +0000"
@@ -1847,6 +1866,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-04-06 18:15:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/quartz": {
     "criteria": {
       "has_nether_quartz_ore": "2025-04-06 17:53:06 +0000"
@@ -1856,6 +1881,18 @@
   "minecraft:recipes/tools/fishing_rod": {
     "criteria": {
       "has_string": "2025-04-06 16:58:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2025-04-06 18:15:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-04-06 18:15:36 +0000"
     },
     "done": true
   },
@@ -1955,6 +1992,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2025-04-06 18:15:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_stairs": {
     "criteria": {
       "has_planks": "2025-04-06 16:18:16 +0000"
@@ -1973,9 +2016,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2025-04-06 18:15:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2025-04-06 16:58:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-04-06 18:12:26 +0000"
     },
     "done": true
   },
@@ -1988,6 +2043,12 @@
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2025-04-06 16:26:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2025-04-06 18:15:36 +0000"
     },
     "done": true
   },

@@ -269,3 +269,32 @@
 [18:55:05] [Server thread/INFO]: jp7806073 issued server command: /home n
 [18:56:40] [Server thread/INFO]: Sebas23m tried to swim in lava to escape Hoglin
 [18:56:50] [Server thread/INFO]: Sebas23m issued server command: /home w
+[18:57:20] [Server thread/INFO]: Sebas23m issued server command: /tp jp7806073 Sebas23m
+[18:57:20] [Server thread/INFO]: [Sebas23m: Teleported jp7806073 to Sebas23m]
+[18:57:26] [Server thread/INFO]: jp7806073 tried to swim in lava
+[18:57:36] [Server thread/INFO]: Sebas23m issued server command: /tp jp7806073 Sebas23m
+[18:57:36] [Server thread/INFO]: [Sebas23m: Teleported jp7806073 to Sebas23m]
+[18:58:09] [Server thread/INFO]: Sebas23m issued server command: /tp jp7806073 Sebas23m
+[18:58:09] [Server thread/INFO]: [Sebas23m: Teleported jp7806073 to Sebas23m]
+[18:58:37] [Server thread/INFO]: Sebas23m tried to swim in lava
+[18:58:50] [Server thread/INFO]: Sebas23m issued server command: /home w
+[18:59:08] [Server thread/INFO]: jp7806073 was burned to a crisp while fighting Piglin
+[18:59:24] [Server thread/INFO]: jp7806073 issued server command: /tp jp7806073 sebas23m
+[18:59:24] [Server thread/INFO]: [jp7806073: Teleported jp7806073 to Sebas23m]
+[18:59:47] [Server thread/INFO]: Sebas23m was slain by Lvl 50 | Piglin
+[18:59:59] [Server thread/INFO]: Sebas23m issued server command: /home w
+[19:00:36] [Server thread/INFO]: jp7806073 has made the advancement [Oh Shiny]
+[19:00:50] [Server thread/INFO]: jp7806073 has made the advancement [Who is Cutting Onions?]
+[19:02:35] [Server thread/INFO]: Sebas23m issued server command: /tp Sebas23m jp7806073
+[19:02:35] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to jp7806073]
+[19:03:04] [Server thread/INFO]: jp7806073 lost connection: Disconnected
+[19:03:04] [Server thread/INFO]: jp7806073 left the game
+[19:03:04] [User Authenticator #5/INFO]: UUID of player jp7806073 is 68efd73e-a0cd-33f7-a574-2c7e5d7949df
+[19:03:09] [Server thread/INFO]: jp7806073 joined the game
+[19:03:09] [Server thread/INFO]: jp7806073[/127.97.177.98:49427] logged in with entity id 50431 at ([world_nether]-23.69999998807907, 37.0, -140.86882090214257)
+[19:04:20] [Server thread/INFO]: jp7806073 was slain by Lvl 50 | Piglin
+[19:04:40] [Server thread/INFO]: Sebas23m issued server command: /tp jp7806073 Sebas23m
+[19:04:40] [Server thread/INFO]: [Sebas23m: Teleported jp7806073 to Sebas23m]
+[19:04:49] [Server thread/INFO]: Sebas23m was slain by Lvl 50 | Magma Cube
+[19:05:22] [Server thread/INFO]: jp7806073 was slain by Lvl 50 | Magma Cube
+[19:06:17] [Server thread/INFO]: jp7806073 issued server command: /home n

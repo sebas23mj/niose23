@@ -586,3 +586,22 @@
 [19:55:24] [Server thread/WARN]: Oak Boat (vehicle of Sebas23m) moved too quickly! 0.6281627888141657,0.0,22.203770845346526
 [19:55:24] [Server thread/WARN]: Oak Boat (vehicle of Sebas23m) moved too quickly! 0.6254811009604282,0.0,22.52183527692523
 [19:56:25] [Server thread/WARN]: Oak Boat (vehicle of jp7806073) moved wrongly! 1.8780956891929546
+[19:59:43] [Server thread/WARN]: Oak Boat (vehicle of Sebas23m) moved wrongly! 0.47774789528965395
+[20:01:55] [Server thread/INFO]: jp7806073 issued server command: /tp jp7806073 sebas23m
+[20:01:55] [Server thread/INFO]: [jp7806073: Teleported jp7806073 to Sebas23m]
+[20:02:37] [Server thread/INFO]: Sebas23m issued server command: /tp Sebas23m jp7806073
+[20:02:37] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to jp7806073]
+[20:03:33] [Server thread/INFO]: jp7806073 issued server command: /tp jp7806073 sebas23m
+[20:03:33] [Server thread/INFO]: [jp7806073: Teleported jp7806073 to Sebas23m]
+[20:04:42] [Server thread/INFO]: jp7806073 issued server command: /tp jp7806073 sebas23m
+[20:04:42] [Server thread/INFO]: [jp7806073: Teleported jp7806073 to Sebas23m]
+[20:06:00] [Server thread/INFO]: jp7806073 issued server command: /tp jp7806073 sebas23m
+[20:06:00] [Server thread/INFO]: [jp7806073: Teleported jp7806073 to Sebas23m]
+[20:06:46] [Server thread/INFO]: Sebas23m has made the advancement [Eye Spy]
+[20:06:51] [Server thread/INFO]: jp7806073 has made the advancement [Eye Spy]
+[20:08:11] [Server thread/INFO]: Sebas23m issued server command: /tp jp7806073 Sebas23m
+[20:08:11] [Server thread/INFO]: [Sebas23m: Teleported jp7806073 to Sebas23m]
+[20:08:19] [Server thread/INFO]: Sebas23m issued server command: /sethome a
+[20:08:24] [Server thread/INFO]: Sebas23m issued server command: /home
+[20:08:28] [Server thread/INFO]: Sebas23m issued server command: /HOME a
+[20:08:31] [Server thread/INFO]: Sebas23m issued server command: /home a

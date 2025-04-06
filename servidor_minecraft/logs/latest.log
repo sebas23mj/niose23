@@ -78,3 +78,12 @@
 [01:33:41] [Server thread/INFO]: Sebas23m has made the advancement [Diamonds!]
 [01:34:16] [Server thread/INFO]: jp7806073 issued server command: /tp jp7806073 sebas23m
 [01:34:16] [Server thread/INFO]: [jp7806073: Teleported jp7806073 to Sebas23m]
+[01:37:12] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 39aafb2d-dfeb-4c21-afaa-a63255a7aaa7, mapped to Pig['Pig'/6762, uuid='39aafb2d-dfeb-4c21-afaa-a63255a7aaa7', l='ServerLevel[world]', x=-176.75, y=70.00, z=-719.80, cpos=[-12, -45], tl=2610, v=true], can't add Pig['Pig'/6858, uuid='39aafb2d-dfeb-4c21-afaa-a63255a7aaa7', l='ServerLevel[world]', x=-173.76, y=70.00, z=-715.80, cpos=[-11, -45], tl=3491, v=false]
+[01:37:50] [Server thread/INFO]: Sebas23m issued server command: /tp Sebas23m jp7806073
+[01:37:50] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to jp7806073]
+[01:38:34] [Server thread/INFO]: Sebas23m issued server command: /tp jp7806073 Sebas23m
+[01:38:34] [Server thread/INFO]: [Sebas23m: Teleported jp7806073 to Sebas23m]
+[01:38:56] [Server thread/INFO]: Sebas23m was slain by Zombie ❤
+[01:39:09] [Server thread/INFO]: Sebas23m issued server command: /tp Sebas23m jp7806073
+[01:39:09] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to jp7806073]
+[01:43:40] [Server thread/INFO]: Sebas23m was slain by Zombie ❤

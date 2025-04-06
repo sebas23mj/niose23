@@ -108,3 +108,43 @@
 [01:52:21] [Server thread/INFO]: [Sebas23m: Set own game mode to Survival Mode]
 [01:53:21] [Server thread/INFO]: Sebas23m has made the advancement [Ice Bucket Challenge]
 [01:53:32] [Server thread/INFO]: jp7806073 has made the advancement [Ice Bucket Challenge]
+[01:54:36] [Server thread/INFO]: Sebas23m issued server command: /home e
+[01:55:03] [Server thread/INFO]: Sebas23m issued server command: /tp Sebas23m jp7806073
+[01:55:03] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to jp7806073]
+[01:55:23] [Server thread/INFO]: Sebas23m has made the advancement [We Need to Go Deeper]
+[01:55:23] [Server thread/INFO]: Sebas23m has made the advancement [Those Were the Days]
+[01:55:27] [Server thread/INFO]: jp7806073 was slain by Lvl 47 | Piglin
+[01:56:22] [Server thread/INFO]: Sebas23m issued server command: /gamerule keepInventory true
+[01:56:22] [Server thread/INFO]: [Sebas23m: Gamerule keepInventory is now set to: true]
+[01:56:36] [Server thread/INFO]: Sebas23m issued server command: /tp jp7806073 Sebas23m
+[01:56:36] [Server thread/INFO]: jp7806073 has made the advancement [We Need to Go Deeper]
+[01:56:36] [Server thread/INFO]: [Sebas23m: Teleported jp7806073 to Sebas23m]
+[01:56:36] [Server thread/INFO]: jp7806073 has made the advancement [Those Were the Days]
+[01:57:06] [Server thread/INFO]: Sebas23m issued server command: /sethome w
+[01:57:35] [Server thread/INFO]: Sebas23m has made the advancement [Not Today, Thank You]
+[01:58:23] [Server thread/INFO]: Sebas23m was slain by Lvl 50 | Piglin Brute
+[01:58:31] [Server thread/INFO]: Sebas23m issued server command: /home w
+[01:58:33] [Server thread/INFO]: jp7806073 was slain by Lvl 50 | Piglin Brute
+[01:58:57] [Server thread/INFO]: jp7806073 issued server command: /tps jp7806073 Sebas23m
+[01:59:04] [Server thread/INFO]: Sebas23m issued server command: /tp jp7806073 Sebas23m
+[01:59:04] [Server thread/INFO]: [Sebas23m: Teleported jp7806073 to Sebas23m]
+[01:59:37] [Server thread/INFO]: jp7806073 was burned to a crisp while fighting Magma Cube
+[01:59:49] [Server thread/INFO]: Sebas23m issued server command: /tp jp7806073 Sebas23m
+[01:59:49] [Server thread/INFO]: [Sebas23m: Teleported jp7806073 to Sebas23m]
+[02:00:08] [Server thread/INFO]: Sebas23m was burned to a crisp while fighting Piglin
+[02:00:15] [Server thread/INFO]: Sebas23m issued server command: /home w
+[02:00:24] [Server thread/INFO]: Sebas23m issued server command: /tp jp7806073 Sebas23m
+[02:00:24] [Server thread/INFO]: [Sebas23m: Teleported jp7806073 to Sebas23m]
+[02:00:45] [Server thread/INFO]: jp7806073 issued server command: /home c
+[02:01:24] [Server thread/INFO]: Sebas23m was doomed to fall by Piglin
+[02:01:24] [Server thread/INFO]: Sebas23m issued server command: /tp jp7806073 Sebas23m
+[02:01:24] [Server thread/INFO]: [Sebas23m: Teleported jp7806073 to Sebas23m]
+[02:01:47] [Server thread/INFO]: jp7806073 was burned to a crisp while fighting Magma Cube
+[02:01:48] [Server thread/INFO]: Sebas23m issued server command: /tp jp7806073 Sebas23m
+[02:01:48] [Server thread/INFO]: [Sebas23m: Teleported jp7806073 to Sebas23m]
+[02:02:00] [Server thread/INFO]: Sebas23m issued server command: /tp jp7806073 Sebas23m
+[02:02:00] [Server thread/INFO]: [Sebas23m: Teleported jp7806073 to Sebas23m]
+[02:04:16] [Server thread/INFO]: Sebas23m issued server command: /home w
+[02:04:22] [Server thread/INFO]: Sebas23m issued server command: /tp jp7806073 Sebas23m
+[02:04:22] [Server thread/INFO]: [Sebas23m: Teleported jp7806073 to Sebas23m]
+[02:04:43] [Server thread/INFO]: jp7806073 has made the advancement [War Pigs]

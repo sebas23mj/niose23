@@ -70,3 +70,10 @@
 [14:51:45] [Server thread/INFO]: jp7806073 issued server command: /home c
 [14:58:04] [Server thread/INFO]: jp7806073 has made the advancement [The Parrots and the Bats]
 [14:58:35] [Server thread/INFO]: jp7806073 issued server command: /home
+[15:01:14] [Server thread/INFO]: jp7806073 issued server command: /gamemode creative
+[15:01:14] [Server thread/INFO]: [jp7806073: Set own game mode to Creative Mode]
+[15:01:44] [Server thread/INFO]: jp7806073 issued server command: /gamemode spectator
+[15:01:44] [Server thread/INFO]: [jp7806073: Set own game mode to Spectator Mode]
+[15:01:55] [Server thread/INFO]: jp7806073 issued server command: /gamemode survival
+[15:01:55] [Server thread/INFO]: [jp7806073: Set own game mode to Survival Mode]
+[15:10:45] [Server thread/INFO]: jp7806073 issued server command: /home a

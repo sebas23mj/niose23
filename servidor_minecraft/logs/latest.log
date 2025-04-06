@@ -181,3 +181,26 @@
 [18:33:39] [Server thread/INFO]: Sebas23m was slain by Lvl 1 | Vindicator
 [18:33:45] [Server thread/INFO]: Sebas23m issued server command: /home q
 [18:35:06] [Server thread/INFO]: Sebas23m was slain by Lvl 4 | Vindicator
+[18:37:25] [Server thread/INFO]: Sebas23m issued server command: /home q
+[18:38:22] [Server thread/INFO]: Sebas23m was slain by Lvl 6 | Vindicator
+[18:38:28] [Server thread/INFO]: Sebas23m issued server command: /home q
+[18:39:33] [Server thread/INFO]: Sebas23m issued server command: /homee
+[18:39:37] [Server thread/INFO]: Sebas23m issued server command: /home e
+[18:40:55] [User Authenticator #2/INFO]: UUID of player jp7806073 is 68efd73e-a0cd-33f7-a574-2c7e5d7949df
+[18:40:56] [Server thread/INFO]: Sebas23m was shot by Lvl 3 | Skeleton
+[18:40:59] [Server thread/INFO]: jp7806073 joined the game
+[18:40:59] [Server thread/INFO]: jp7806073[/127.97.177.98:34321] logged in with entity id 42210 at ([world]-534.3960460503896, 64.0, -525.080072091307)
+[18:43:36] [User Authenticator #3/INFO]: UUID of player jp7806073 is 68efd73e-a0cd-33f7-a574-2c7e5d7949df
+[18:43:36] [Server thread/INFO]: jp7806073 lost connection: You logged in from another location
+[18:43:36] [Server thread/INFO]: jp7806073 left the game
+[18:43:39] [Server thread/INFO]: jp7806073 joined the game
+[18:43:39] [Server thread/INFO]: jp7806073[/127.97.177.98:39563] logged in with entity id 43615 at ([world]-573.4772192131657, 65.0, -527.7046183538174)
+[18:44:09] [Server thread/INFO]: jp7806073 lost connection: Disconnected
+[18:44:09] [Server thread/INFO]: jp7806073 left the game
+[18:45:38] [User Authenticator #4/INFO]: UUID of player jp7806073 is 68efd73e-a0cd-33f7-a574-2c7e5d7949df
+[18:45:42] [Server thread/INFO]: jp7806073 joined the game
+[18:45:42] [Server thread/INFO]: jp7806073[/127.97.177.98:51349] logged in with entity id 43912 at ([world]-569.1270600378016, 65.0, -520.1855393693909)
+[18:46:43] [Server thread/INFO]: Sebas23m issued server command: /home w
+[18:46:49] [Server thread/INFO]: Sebas23m issued server command: /tp jp7806073 Sebas23m
+[18:46:49] [Server thread/INFO]: [Sebas23m: Teleported jp7806073 to Sebas23m]
+[18:46:52] [Server thread/INFO]: Sebas23m issued server command: /home e

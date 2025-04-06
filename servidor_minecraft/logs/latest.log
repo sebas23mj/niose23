@@ -85,3 +85,47 @@
 [17:22:07] [Server thread/INFO]: Sebas23m issued server command: /locate structure minecraft:mansion
 [17:22:07] [Server thread/INFO]: Locating element minecraft:mansion took 0 ms
 [17:22:14] [Async Chat Thread - #2/INFO]: [Not Secure] <Sebas23m> -768 ~ -896
+[17:26:11] [Server thread/INFO]: Sebas23m issued server command: /tp jp7806073 Sebas23m
+[17:26:11] [Server thread/INFO]: [Sebas23m: Teleported jp7806073 to Sebas23m]
+[17:26:58] [Server thread/INFO]: Sebas23m issued server command: /tp jp7806073 Sebas23m
+[17:26:58] [Server thread/INFO]: [Sebas23m: Teleported jp7806073 to Sebas23m]
+[17:28:16] [Server thread/INFO]: Sebas23m was slain by Lvl 7 | Vindicator
+[17:28:27] [Server thread/INFO]: Sebas23m issued server command: /tp Sebas23m jp7806073
+[17:28:27] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to jp7806073]
+[17:29:13] [Server thread/INFO]: Sebas23m was slain by Lvl 9 | Vex
+[17:29:21] [Server thread/INFO]: Sebas23m issued server command: /tp jp7806073 Sebas23m
+[17:29:21] [Server thread/INFO]: [Sebas23m: Teleported jp7806073 to Sebas23m]
+[17:29:28] [Server thread/INFO]: Sebas23m issued server command: /tp @s -768 ~ -896
+[17:29:28] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to -767.500000, 64.562500, -895.500000]
+[17:29:43] [Server thread/INFO]: Sebas23m suffocated in a wall
+[17:29:57] [Server thread/INFO]: Sebas23m issued server command: /tp @s -768 128 -896
+[17:29:57] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to -767.500000, 128.000000, -895.500000]
+[17:29:59] [Server thread/INFO]: Sebas23m fell from a high place
+[17:30:10] [Server thread/INFO]: Sebas23m issued server command: /tp @s -768 98 -896
+[17:30:10] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to -767.500000, 98.000000, -895.500000]
+[17:30:20] [Server thread/INFO]: Sebas23m issued server command: /tp jp7806073 Sebas23m
+[17:30:20] [Server thread/INFO]: [Sebas23m: Teleported jp7806073 to Sebas23m]
+[17:30:43] [Server thread/INFO]: jp7806073 was slain by Lvl 7 | Vex
+[17:30:51] [Server thread/INFO]: Sebas23m was slain by Lvl 11 | Vindicator
+[17:31:15] [Server thread/INFO]: Sebas23m issued server command: /tp @s -768 92 -896
+[17:31:15] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to -767.500000, 92.000000, -895.500000]
+[17:31:23] [Server thread/INFO]: jp7806073 issued server command: /tp jp7806073 sebas23m
+[17:31:23] [Server thread/INFO]: [jp7806073: Teleported jp7806073 to Sebas23m]
+[17:31:53] [Server thread/INFO]: Sebas23m was slain by Lvl 15 | Vindicator
+[17:31:59] [Server thread/INFO]: jp7806073 was slain by Lvl 17 | Vindicator
+[17:32:02] [Server thread/INFO]: Sebas23m issued server command: /tp Sebas23m jp7806073
+[17:32:02] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to jp7806073]
+[17:32:15] [Server thread/INFO]: Sebas23m issued server command: /tp @s -768 92 -896
+[17:32:15] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to -767.500000, 92.000000, -895.500000]
+[17:32:23] [Server thread/INFO]: Sebas23m issued server command: /tp jp7806073 Sebas23m
+[17:32:23] [Server thread/INFO]: [Sebas23m: Teleported jp7806073 to Sebas23m]
+[17:32:49] [Server thread/INFO]: jp7806073 was slain by Lvl 11 | Vindicator
+[17:33:23] [Server thread/INFO]: Sebas23m issued server command: /tp jp7806073 Sebas23m
+[17:33:23] [Server thread/INFO]: [Sebas23m: Teleported jp7806073 to Sebas23m]
+[17:33:39] [Server thread/INFO]: Sebas23m was slain by Lvl 10 | Vindicator
+[17:33:41] [Server thread/INFO]: jp7806073 was slain by Lvl 14 | Vindicator
+[17:34:22] [Server thread/INFO]: Sebas23m issued server command: /tp @s -768 92 -896
+[17:34:22] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to -767.500000, 92.000000, -895.500000]
+[17:35:10] [Server thread/INFO]: jp7806073 issued server command: /tp jp7806073 sebas23m
+[17:35:10] [Server thread/INFO]: [jp7806073: Teleported jp7806073 to Sebas23m]
+[17:35:17] [Server thread/INFO]: Sebas23m was slain by Lvl 14 | Vindicator

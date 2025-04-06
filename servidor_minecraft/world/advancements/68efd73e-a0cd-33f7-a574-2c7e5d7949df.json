@@ -18,6 +18,7 @@
       "minecraft:ocean": "2025-04-05 17:39:00 +0000",
       "minecraft:sunflower_plains": "2025-04-05 17:34:52 +0000",
       "minecraft:meadow": "2025-04-05 16:48:42 +0000",
+      "minecraft:birch_forest": "2025-04-06 17:26:11 +0000",
       "minecraft:windswept_hills": "2025-04-06 01:20:27 +0000",
       "minecraft:savanna": "2025-04-06 01:19:19 +0000",
       "minecraft:windswept_savanna": "2025-04-06 01:19:35 +0000",
@@ -488,7 +489,8 @@
       "suspicious_stew": "2025-04-06 00:36:52 +0000",
       "cookie": "2025-04-06 17:17:09 +0000",
       "cooked_mutton": "2025-04-05 16:52:58 +0000",
-      "beef": "2025-04-05 16:47:52 +0000"
+      "beef": "2025-04-05 16:47:52 +0000",
+      "golden_carrot": "2025-04-06 17:27:36 +0000"
     },
     "done": false
   },
@@ -1497,6 +1499,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-04-06 00:40:10 +0000",
+      "minecraft:vindicator": "2025-04-06 17:28:22 +0000",
       "minecraft:magma_cube": "2025-04-06 02:05:37 +0000",
       "minecraft:spider": "2025-04-06 00:40:35 +0000",
       "minecraft:zombie": "2025-04-06 00:54:32 +0000"
@@ -2032,9 +2035,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2025-04-06 17:26:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-04-06 17:26:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2025-04-06 17:26:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2025-04-06 17:26:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_iron_block": {
     "criteria": {
       "has_iron_block": "2025-04-06 17:15:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-04-06 17:26:46 +0000"
     },
     "done": true
   },
@@ -2044,9 +2077,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2025-04-06 17:26:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-04-06 17:26:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2025-04-06 17:18:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-04-06 17:26:46 +0000"
     },
     "done": true
   },
@@ -2062,6 +2113,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-04-06 17:26:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2025-04-06 17:26:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2025-04-06 16:49:00 +0000"
@@ -2071,6 +2134,12 @@
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2025-04-06 17:15:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2025-04-06 17:26:46 +0000"
     },
     "done": true
   },

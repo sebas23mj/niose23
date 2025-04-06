@@ -8,6 +8,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:flower_forest": "2025-04-05 16:42:18 +0000",
+      "minecraft:old_growth_birch_forest": "2025-04-06 01:40:49 +0000",
       "minecraft:beach": "2025-04-05 16:43:23 +0000",
       "minecraft:forest": "2025-04-06 01:30:36 +0000",
       "minecraft:ocean": "2025-04-05 16:43:13 +0000",

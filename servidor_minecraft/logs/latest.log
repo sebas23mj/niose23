@@ -66,3 +66,5 @@
 [16:06:16] [Server thread/INFO]: Sebas23m joined the game
 [16:06:16] [Server thread/INFO]: Sebas23m[/127.230.212.129:53611] logged in with entity id 75 at ([world]-543.3000000119209, 64.0, -526.7615537184519)
 [16:13:44] [Server thread/INFO]: Sebas23m has made the advancement [The Parrots and the Bats]
+[16:24:55] [Server thread/INFO]: Sebas23m issued server command: /locate biome minecraft:taiga
+[16:24:56] [Server thread/INFO]: Locating element minecraft:taiga took 519 ms

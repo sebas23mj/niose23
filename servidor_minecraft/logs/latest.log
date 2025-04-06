@@ -1,11 +1,11 @@
-[15:47:29] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1; Ubuntu null) on Linux 6.8.0-1021-azure (amd64)
-[15:47:29] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) for Minecraft 1.21.1
-[15:47:30] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[15:47:30] [ServerMain/INFO]: [PluginInitializerManager] Initialized 4 plugins
-[15:47:30] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (4):
+[15:47:59] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1; Ubuntu null) on Linux 6.8.0-1021-azure (amd64)
+[15:47:59] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) for Minecraft 1.21.1
+[15:47:59] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[15:48:00] [ServerMain/INFO]: [PluginInitializerManager] Initialized 4 plugins
+[15:48:00] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (4):
  - LevelledMobs (4.3.1 b112), SmoothTimber (1.27.4), UltraSetHome (1.7.9), sleep-most (5.5.3)
-[15:47:34] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[15:47:34] [ServerMain/ERROR]: Failed to start the minecraft server
+[15:48:05] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[15:48:05] [ServerMain/ERROR]: Failed to start the minecraft server
 net.minecraft.util.DirectoryLock$LockException: /workspaces/niose23/servidor_minecraft/./world/session.lock: already locked (possibly by other Minecraft instance?)
 	at net.minecraft.util.DirectoryLock$LockException.alreadyLocked(DirectoryLock.java:100) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
 	at net.minecraft.util.DirectoryLock.create(DirectoryLock.java:30) ~[paper-1.21.1.jar:1.21.1-57-b483da4]

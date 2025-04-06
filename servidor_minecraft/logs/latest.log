@@ -164,3 +164,15 @@
 [18:12:37] [Server thread/INFO]: [Sebas23m: Set own game mode to Survival Mode]
 [18:12:43] [Server thread/INFO]: Sebas23m issued server command: /home t
 [18:13:34] [Server thread/INFO]: Sebas23m issued server command: /home e
+[18:23:48] [Server thread/INFO]: Sebas23m issued server command: /home t
+[18:23:58] [Server thread/INFO]: Sebas23m issued server command: /home q
+[18:24:06] [Server thread/INFO]: Sebas23m issued server command: /home w
+[18:24:26] [Server thread/INFO]: Sebas23m issued server command: /gamemode spectator
+[18:24:26] [Server thread/INFO]: [Sebas23m: Set own game mode to Spectator Mode]
+[18:24:35] [Server thread/INFO]: Sebas23m issued server command: /tp @s -208 100 -592
+[18:24:35] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to -207.500000, 100.000000, -591.500000]
+[18:24:57] [Server thread/INFO]: Sebas23m issued server command: /gamemode survival
+[18:24:57] [Server thread/INFO]: [Sebas23m: Set own game mode to Survival Mode]
+[18:25:07] [Server thread/INFO]: Sebas23m issued server command: /sethome r
+[18:25:17] [Server thread/INFO]: Sebas23m issued server command: /home r
+[18:25:55] [Server thread/INFO]: Sebas23m was slain by Lvl 28 | Spawner Blaze

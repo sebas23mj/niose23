@@ -1007,6 +1007,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2025-04-06 18:25:45 +0000",
       "minecraft:skeleton": "2025-04-06 17:50:01 +0000",
       "minecraft:vindicator": "2025-04-06 17:28:33 +0000",
       "minecraft:magma_cube": "2025-04-06 02:07:32 +0000",

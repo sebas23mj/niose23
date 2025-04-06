@@ -522,7 +522,8 @@
       "bread": "2025-04-05 16:51:10 +0000",
       "cookie": "2025-04-06 17:16:39 +0000",
       "suspicious_stew": "2025-04-06 19:19:56 +0000",
-      "cooked_beef": "2025-04-06 16:27:10 +0000"
+      "cooked_beef": "2025-04-06 16:27:10 +0000",
+      "golden_carrot": "2025-04-06 19:45:09 +0000"
     },
     "done": false
   },
@@ -1012,6 +1013,7 @@
       "minecraft:skeleton": "2025-04-06 17:50:01 +0000",
       "minecraft:piglin": "2025-04-06 19:33:42 +0000",
       "minecraft:vindicator": "2025-04-06 17:28:33 +0000",
+      "minecraft:zombified_piglin": "2025-04-06 19:43:49 +0000",
       "minecraft:magma_cube": "2025-04-06 02:07:32 +0000",
       "minecraft:spider": "2025-04-06 00:44:36 +0000",
       "minecraft:piglin_brute": "2025-04-06 19:14:16 +0000",

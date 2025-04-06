@@ -359,3 +359,8 @@
 [19:34:27] [Server thread/INFO]: Sebas23m issued server command: /home e
 [19:34:40] [Server thread/INFO]: Sebas23m has made the advancement [Enchanter]
 [19:34:54] [Server thread/INFO]: Sebas23m was slain by Iron Golem ❤
+[19:39:05] [Server thread/INFO]: Sebas23m issued server command: /locate structure minecraft:fortress
+[19:39:50] [Server thread/INFO]: Sebas23m issued server command: /locate structure minecraft:stronghold
+[19:39:50] [Server thread/INFO]: Locating element minecraft:stronghold took 17 ms
+[19:42:46] [Server thread/INFO]: Sebas23m issued server command: /home w
+[19:45:18] [Server thread/INFO]: Sebas23m issued server command: /home e

@@ -1503,7 +1503,8 @@
       "minecraft:vindicator": "2025-04-06 17:28:22 +0000",
       "minecraft:magma_cube": "2025-04-06 02:05:37 +0000",
       "minecraft:spider": "2025-04-06 00:40:35 +0000",
-      "minecraft:zombie": "2025-04-06 00:54:32 +0000"
+      "minecraft:zombie": "2025-04-06 00:54:32 +0000",
+      "minecraft:creeper": "2025-04-06 19:39:33 +0000"
     },
     "done": false
   },
@@ -2480,9 +2481,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-04-06 19:35:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2025-04-06 19:31:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-04-06 19:45:52 +0000"
     },
     "done": true
   },
@@ -2492,15 +2505,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-04-06 19:35:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2025-04-06 19:24:58 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-04-06 19:35:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/soul_torch": {
     "criteria": {
       "has_soul_sand": "2025-04-06 19:03:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-04-06 19:45:52 +0000"
     },
     "done": true
   },

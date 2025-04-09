@@ -70,3 +70,23 @@
 [02:44:01] [Server thread/INFO]: Sebas23m issued server command: /homea
 [02:44:02] [Server thread/INFO]: Sebas23m fell out of the world
 [02:44:09] [Server thread/INFO]: Sebas23m issued server command: /home a
+[02:47:35] [User Authenticator #1/INFO]: UUID of player Cami23m is 4fa8fb20-2ad5-301e-b23d-5bbfe366640e
+[02:47:40] [Server thread/INFO]: Cami23m joined the game
+[02:47:40] [Server thread/INFO]: Cami23m[/127.74.223.143:53871] logged in with entity id 1697 at ([world]3.5, 74.0, -1.5)
+[02:47:53] [Server thread/INFO]: Sebas23m issued server command: /gamemode creative Cami23m
+[02:47:53] [Server thread/INFO]: [Sebas23m: Set Cami23m's game mode to Creative Mode]
+[02:48:02] [Server thread/INFO]: Sebas23m issued server command: /tp Cami23m Sebas23m
+[02:48:02] [Server thread/INFO]: Cami23m has made the advancement [The End?]
+[02:48:02] [Server thread/INFO]: [Sebas23m: Teleported Cami23m to Sebas23m]
+[02:49:08] [Server thread/INFO]: Sebas23m was slain by Lvl 50 | Enderman
+[02:50:28] [Server thread/INFO]: Sebas23m issued server command: /home a
+[02:52:40] [Server thread/INFO]: Sebas23m was doomed to fall by Ender Dragon
+[02:52:58] [Server thread/INFO]: Sebas23m issued server command: /home a
+[02:53:11] [Server thread/INFO]: Sebas23m issued server command: /tp Sebas23m Cami23m
+[02:53:11] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to Cami23m]
+[02:54:59] [Server thread/INFO]: Sebas23m was slain by Lvl 34 | Enderman
+[02:55:08] [Server thread/INFO]: Sebas23m issued server command: /tp Sebas23m Cami23m
+[02:55:08] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to Cami23m]
+[02:55:43] [Server thread/INFO]: Sebas23m issued server command: /gamemode survival Cami23m
+[02:55:43] [Server thread/INFO]: [Sebas23m: Set Cami23m's game mode to Survival Mode]
+[02:55:51] [Server thread/INFO]: Cami23m was slain by Sebas23m

@@ -1510,7 +1510,8 @@
       "minecraft:magma_cube": "2025-04-06 02:05:37 +0000",
       "minecraft:spider": "2025-04-06 00:40:35 +0000",
       "minecraft:zombie": "2025-04-06 00:54:32 +0000",
-      "minecraft:creeper": "2025-04-06 19:39:33 +0000"
+      "minecraft:creeper": "2025-04-06 19:39:33 +0000",
+      "minecraft:shulker": "2025-04-09 03:17:21 +0000"
     },
     "done": false
   },
@@ -2595,9 +2596,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_slab": {
+    "criteria": {
+      "has_purpur_block": "2025-04-09 03:17:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2025-04-09 03:16:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_stairs": {
+    "criteria": {
+      "has_purpur_block": "2025-04-09 03:17:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2025-04-09 03:12:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2025-04-09 03:17:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_stairs_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2025-04-09 03:17:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar": {
+    "criteria": {
+      "has_purpur_block": "2025-04-09 03:17:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2025-04-09 03:17:47 +0000"
     },
     "done": true
   },

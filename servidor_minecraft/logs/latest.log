@@ -114,3 +114,34 @@
 [03:06:00] [Server thread/INFO]: Sebas23m fell from a high place
 [03:07:38] [Server thread/INFO]: Sebas23m issued server command: /tp Cami23m Sebas23m
 [03:07:38] [Server thread/INFO]: [Sebas23m: Teleported Cami23m to Sebas23m]
+[03:08:00] [Server thread/INFO]: Sebas23m issued server command: /home n
+[03:09:18] [Server thread/INFO]: Cami23m was shot by Lvl 4 | Skeleton
+[03:09:24] [Server thread/INFO]: Sebas23m has made the advancement [Remote Getaway]
+[03:09:49] [Server thread/INFO]: Sebas23m issued server command: /sethome h
+[03:09:55] [Server thread/INFO]: Sebas23m issued server command: /tp Cami23m jp7806073
+[03:09:55] [Server thread/INFO]: [Sebas23m: Teleported Cami23m to jp7806073]
+[03:10:17] [Server thread/INFO]: Cami23m has made the advancement [Cover Me with Diamonds]
+[03:10:57] [Server thread/INFO]: Sebas23m issued server command: /locate poi minecraft:shepherd
+[03:12:56] [Server thread/INFO]: Sebas23m issued server command: /locate structure minecraft:stronghold
+[03:12:59] [Server thread/INFO]: Cami23m was blown up by Lvl 8 | Creeper
+[03:13:05] [Server thread/INFO]: Sebas23m issued server command: /home n
+[03:13:14] [Server thread/INFO]: Sebas23m issued server command: /delhome h
+[03:13:37] [Server thread/INFO]: Sebas23m issued server command: /locate structure minecraft:stronghold
+[03:13:46] [Server thread/INFO]: Cami23m hit the ground too hard
+[03:13:57] [Server thread/INFO]: Sebas23m issued server command: /seed
+[03:15:34] [Server thread/INFO]: Sebas23m issued server command: /gamemode spectator
+[03:15:34] [Server thread/INFO]: [Sebas23m: Set own game mode to Spectator Mode]
+[03:15:45] [Server thread/INFO]: Cami23m was shot by Lvl 1 | Pillager
+[03:16:00] [Server thread/INFO]: Sebas23m issued server command: /tp -872 100 -584
+[03:16:00] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to -871.500000, 100.000000, -583.500000]
+[03:16:00] [Server thread/INFO]: Sebas23m has made the advancement [The City at the End of the Game]
+[03:16:27] [Server thread/INFO]: Sebas23m issued server command: /tp Cami23m jp7806073
+[03:16:27] [Server thread/INFO]: [Sebas23m: Teleported Cami23m to jp7806073]
+[03:16:36] [Server thread/INFO]: Sebas23m issued server command: /tp jp7806073 Sebas23m
+[03:16:36] [Server thread/INFO]: [Sebas23m: Teleported jp7806073 to Sebas23m]
+[03:16:51] [Server thread/INFO]: jp7806073 has made the advancement [The City at the End of the Game]
+[03:17:06] [Server thread/INFO]: Sebas23m issued server command: /tp -1208 100 -232
+[03:17:06] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to -1207.500000, 100.000000, -231.500000]
+[03:17:47] [Server thread/INFO]: Sebas23m issued server command: /gamemode survival
+[03:17:47] [Server thread/INFO]: [Sebas23m: Set own game mode to Survival Mode]
+[03:17:53] [Server thread/INFO]: Sebas23m issued server command: /sethome n

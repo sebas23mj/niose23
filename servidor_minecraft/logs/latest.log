@@ -87,3 +87,9 @@
 [15:19:48] [User Authenticator #2/INFO]: UUID of player Sebas23m is 05baa57d-e0e2-3245-950d-ef017ffd725d
 [15:19:53] [Server thread/INFO]: Sebas23m joined the game
 [15:19:53] [Server thread/INFO]: Sebas23m[/127.74.223.143:59641] logged in with entity id 6363 at ([world]-0.8822621127757377, 74.0, -2.9369214935542036)
+[15:25:03] [Server thread/INFO]: jp7806073 issued server command: /home c
+[15:25:18] [Server thread/INFO]: Sebas23m issued server command: /tp jp7806073 Sebas23m
+[15:25:18] [Server thread/INFO]: [Sebas23m: Teleported jp7806073 to Sebas23m]
+[15:25:57] [Server thread/INFO]: jp7806073 issued server command: /home c
+[15:31:21] [Server thread/INFO]: jp7806073 lost connection: Disconnected
+[15:31:21] [Server thread/INFO]: jp7806073 left the game

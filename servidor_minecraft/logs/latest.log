@@ -70,3 +70,13 @@
 [14:57:49] [Server thread/INFO]: jp7806073[/127.29.182.217:33809] logged in with entity id 713 at ([world]-547.3127409372242, 64.5625, -524.5562816920086)
 [14:58:38] [Server thread/INFO]: Sebas23m issued server command: /home n
 [14:59:36] [Server thread/INFO]: Sebas23m issued server command: /home e
+[15:03:51] [Server thread/WARN]: Spruce Boat (vehicle of Sebas23m) moved wrongly! 0.4897258616255158
+[15:03:51] [Server thread/WARN]: Spruce Boat (vehicle of Sebas23m) moved wrongly! 0.8178680122657624
+[15:03:51] [Server thread/WARN]: Spruce Boat (vehicle of Sebas23m) moved wrongly! 1.2154480822177902
+[15:03:51] [Server thread/WARN]: Spruce Boat (vehicle of Sebas23m) moved wrongly! 1.5754257595265244
+[15:06:53] [Server thread/INFO]: Sebas23m issued server command: /home e
+[15:07:51] [Server thread/INFO]: Sebas23m issued server command: /kill Sebas23m
+[15:07:51] [Server thread/INFO]: Sebas23m was killed
+[15:07:51] [Server thread/INFO]: [Sebas23m: Killed Sebas23m]
+[15:08:01] [Server thread/INFO]: Sebas23m issued server command: /home s
+[15:11:26] [Server thread/INFO]: jp7806073 issued server command: /home c

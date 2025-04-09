@@ -2676,15 +2676,27 @@
     },
     "done": true
   },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2025-04-09 03:09:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:end/find_end_city": {
     "criteria": {
       "in_city": "2025-04-09 03:16:00 +0000"
     },
     "done": true
   },
-  "minecraft:end/enter_end_gateway": {
+  "minecraft:nether/brew_potion": {
     "criteria": {
-      "entered_end_gateway": "2025-04-09 03:09:24 +0000"
+      "potion": "2025-04-09 03:28:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2025-04-09 03:28:17 +0000"
     },
     "done": true
   },

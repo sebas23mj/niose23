@@ -1511,6 +1511,7 @@
       "minecraft:spider": "2025-04-06 00:40:35 +0000",
       "minecraft:zombie": "2025-04-06 00:54:32 +0000",
       "minecraft:creeper": "2025-04-06 19:39:33 +0000",
+      "minecraft:drowned": "2025-04-09 15:09:25 +0000",
       "minecraft:shulker": "2025-04-09 03:17:21 +0000"
     },
     "done": false
@@ -2659,6 +2660,36 @@
   "minecraft:recipes/decorations/shulker_box": {
     "criteria": {
       "has_shulker_shell": "2025-04-09 03:31:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-09 15:09:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-09 15:09:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/copper_door": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-09 15:09:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-09 15:09:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/copper_trapdoor": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-09 15:09:26 +0000"
     },
     "done": true
   },

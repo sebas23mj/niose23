@@ -1,0 +1,55 @@
+Message:
+  prefix: §8[§6BetterTPA§8]§7
+  timer-info-tpa-warmup: '%prefix% You will be teleported in §e%time% seconds§7.'
+  timer-ìnfo-tpa-teleport: '%prefix% Teleporting to §e%target%§7...'
+  timer-error-tpa-expired-sender: '%prefix% §e%target% §7did not react to your TPA-Request
+    in time.'
+  timer-error-tpa-expired-receiver: '%prefix% §7TPA-Request from §e%target% §7expired.'
+  command-info-tpa-sender: '%prefix% You''ve sent a TPA-Request to §e%target%§7.'
+  command-info-tpa-accepted-receiver: '%prefix% You accepted the TPA-Request from
+    §e%target%§7.'
+  command-info-tpa-accepted-sender: '%prefix% §e%target% §7accepted your TPA-Request.'
+  command-error-tpa-denied-receiver: '%prefix% You denied the TPA-Request of §e%target%§7.'
+  command-error-tpa-denied-sender: '%prefix% §e%target% §cdenied the TPA-Request.'
+  command-error-tpa-event-cancelled: '%prefix% §cThe event was cancelled.'
+  command-error-tpa-self: '%prefix% §cYou cannot send TPA-Request to yourself.'
+  command-error-tpa-pending: '%prefix% §cThere is still a pending TPA-Request to that
+    player.'
+  command-error-tpa-cooldown: '%prefix% §cYou have to wait before executing a new
+    request to that player.'
+  command-error-tpa-ignored: '%prefix% §e%target% §cdoes not accept any TPA-Requests
+    right now.'
+  command-error-tpaccept-empty: '%prefix% §cYou do not have any pending TPA-Requests.'
+  command-error-tpaccept-invalid: '%prefix% §cYou do not have any pending TPA-Requests
+    of §e%target%§7.'
+  command-info-tpaignore-ignore: '%prefix% You will no longer receive TPA-Requests
+    from §e%target%§7.'
+  command-info-tpaignore-unignore: '%prefix% You will now receive TPA-Requests from
+    §e%target% §7again.'
+  command-error-tpaignore-bypass: '%prefix% §cYou cannot ignore this player.'
+  command-error-tpaignore-self: '%prefix% §cYou cannot ignore yourself.'
+  command-info-tpaignoreall-ignore: '%prefix% You will no longer receive TPA-Requests.'
+  command-info-tpaignoreall-unignore: '%prefix% You will now receive TPA-Requests
+    again.'
+  command-info-reload: '%prefix% The config has been reloaded.'
+  command-info-tparequest-receiver: |-
+    <dark_grey>-----------------------------------------
+    <gold> » <yellow>%target% <grey>wants to teleport to you!
+
+    <green>                    <hover:show_text:"<grey>Click to <green>accept"><click:run_command:/tpaccept>Accept</click></hover>      <red><hover:show_text:"<grey>Click to <red>deny"><click:run_command:/tpdeny>Deny</click></hover>
+    <dark_grey>-----------------------------------------
+  command-info-tpahererequest-receiver: |-
+    <dark_grey>-----------------------------------------
+    <gold> » <yellow>%target% <grey>wants you to teleport to him!
+
+    <green>                    <hover:show_text:"<grey>Click to <green>accept"><click:run_command:/tpaccept>Accept</click></hover>      <red><hover:show_text:"<grey>Click to <red>deny"><click:run_command:/tpdeny>Deny</click></hover>
+    <dark_grey>-----------------------------------------
+  command-info-list-header: '§6» §7Pending §eTPA-Requests§7:'
+  command-info-list-tpa: ' <dark_grey>» <green><hover:show_text:''<grey>Click to <green>accept''><click:run_command:''/tpaccept
+    %target%''>Accept</click></hover></green>  <red><hover:show_text:''<grey>Click
+    to <red>deny''><click:run_command:''/tpdeny %target%''>Deny</click></hover></red>
+    <grey>- <yellow>%target% <grey>→ You'
+  command-info-list-tpahere: ' <dark_grey>» <green><hover:show_text:''<grey>Click
+    to <green>accept''><click:run_command:''/tpaccept %target%''>Accept</click></hover></green>  <red><hover:show_text:''<grey>Click
+    to <red>deny''><click:run_command:''/tpdeny %target%''>Deny</click></hover></red>
+    <grey>- <grey>You → <yellow>%target%'

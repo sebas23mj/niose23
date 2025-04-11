@@ -42,26 +42,26 @@ sleep:
     skip-night-sound: ui.toast.challenge_complete
     skip-storm-sound: entity.wither.spawn
     reset-time-since-rest: true
-    exempt-flying: false
+    gsit-hook: false
+    insomnia-chance: 0.0
+    insomnia-milk: false
+    disable-daylight-cycle-gamerule: true
+    skip-storm: true
+    dynamic-animation-speed: false
+    allow-sleep-cmd: true
+    clock-animation: true
     non-sleeping-title: false
     phantom-reset-audience: all
-    dynamic-animation-speed: false
-    gsit-sleep: true
-    disable-daylight-cycle-gamerule: true
-    allow-kick: false
-    gsit-sleep-cmd: false
+    exempt-below-y: -1
+    skip-msg-audience: all
     non-sleeping-sound: false
     force-nightcycle-animation: true
+    gsit-sleep-cmd: false
+    exempt-flying: false
     longer-night-duration: 0
-    insomnia-chance: 0.0
-    skip-msg-audience: all
-    clock-animation: true
-    insomnia-milk: false
-    allow-sleep-cmd: true
-    skip-storm: true
+    allow-kick: false
     non-sleeping-clock-animation: false
-    gsit-hook: false
-    exempt-below-y: -1
+    gsit-sleep: true
   
   world2:
     enabled: false
